@@ -19,7 +19,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 <img src="https://github.com/jacklvd/IOS101-prework/blob/master/ios101-introduction.gif" />
 
-## App Brainstorming (Step 4)
+## App Brainstorming
 
 ### Favorite Apps and Features
 
